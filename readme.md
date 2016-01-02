@@ -1,12 +1,12 @@
-# A collection of links to my preferred web tooling
+## A collection of links to my preferred web tooling
 
-## Front-end
+### Front-end
 
-### Static Site Generators
+#### Static Site Generators
 - [Metalsmith](https://github.com/segmentio/metalsmith)
 - [Hexo](https://hexo.io/)
 
-### jQuery Plugins
+#### jQuery Plugins
 
-#### Mobile Navigation
+Mobile Navigation
 - [SlickNav](https://github.com/ComputerWolf/SlickNav)
