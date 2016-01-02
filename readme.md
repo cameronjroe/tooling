@@ -1,6 +1,8 @@
-## A collection of links to my preferred web tooling
+# tooling
 
-### Front-end
+> A collection of links to my preferred web tooling
+
+## Front-end
 
 #### Static Site Generators
 - [Metalsmith](https://github.com/segmentio/metalsmith)
