@@ -1,0 +1,14 @@
+{
+    "jquery-easing": "https://github.com/gdsmith/jquery.easing",
+    "mobile-menu": "https://github.com/mambows/mobilemenu",
+    "jquery-tiny-pubsub": "https://github.com/cowboy/jquery-tiny-pubsub",
+    "jquery-videoBG": "https://github.com/sydlawrence/jquery.videoBG",
+    "jquery-innerFade": "https://github.com/wesbaker/jquery.innerFade",
+    "owl-carousel": "https://github.com/OwlFonk/OwlCarousel",
+    "jquery-xmpp": "https://github.com/maxpowel/jQuery-XMPP-plugin",
+    "jquery-swipe": "https://github.com/jgarber623/jquery-swipe",
+    "frescojs": "http://www.frescojs.com/download",
+    "counterup": "https://github.com/bfintal/Counter-Up",
+    "ajaxchimp": "https://github.com/scdoshi/jquery-ajaxchimp",
+    "magnific-popup": "http://dimsemenov.com/plugins/magnific-popup/"
+}

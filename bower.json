@@ -1,0 +1,33 @@
+{
+    "name": "jquery-plugins",
+    "description": "A collection of starred jquery plugins.",
+    "private": true,
+    "dependencies": {
+        "modernizr": "latest",
+        "jquery-validation": "latest",
+        "masonry": "latest",
+        "jquery.stellar": "latest",
+        "retina.js": "latest",
+        "fitvids": "latest",
+        "echojs": "latest",
+        "jquery-cycle2": "latest",
+        "blockui": "latest",
+        "onepage-scroll": "latest",
+        "isotope": "latest",
+        "mixitup": "latest",
+        "superfish": "latest",
+        "salvattore": "latest",
+        "bxslider-4": "latest",
+        "fitvids": "latest",
+        "jquery-waypoints": "latest",
+        "jquery-instagram": "latest",
+        "clndr": "latest",
+        "jquery-validation": "latest",
+        "globalize": "latest",
+        "jquery-mousewheel": "latest",
+        "Tipper": "latest",
+        "fastclick": "latest",
+        "jqueryui-touch-punch": "latest"
+    }
+
+    
